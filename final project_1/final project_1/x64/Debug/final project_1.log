@@ -1,0 +1,3 @@
+﻿  final project_1.c
+C:\Users\chiuj\OneDrive\桌面\final project_1\final project_1\final project_1.c(9,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  final project_1.vcxproj -> C:\Users\chiuj\OneDrive\桌面\final project_1\x64\Debug\final project_1.exe
