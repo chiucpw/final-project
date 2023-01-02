@@ -1,9 +1,0 @@
-﻿  主程式.c
-c:\users\user\desktop\final-project\final project_1\程式\程式\主程式.c(17): warning C4244: '函式': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
-c:\users\user\desktop\final-project\final project_1\程式\程式\主程式.c(55): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
-c:\users\user\desktop\final-project\final project_1\程式\程式\主程式.c(20): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 請參閱 'sprintf' 的宣告
-c:\users\user\desktop\final-project\final project_1\程式\程式\主程式.c(21): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 請參閱 'fopen' 的宣告
-c:\users\user\desktop\final-project\final project_1\程式\程式\主程式.c(16): warning C4101: 'nu': 未參考的區域變數
-c:\users\user\desktop\final-project\final project_1\程式\程式\主程式.c(16): warning C4101: 'ch': 未參考的區域變數
