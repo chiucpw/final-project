@@ -1,3 +1,8 @@
 ﻿  final project_1.c
-C:\Users\chiuj\OneDrive\桌面\final project_1\final project_1\final project_1.c(9,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  final project_1.vcxproj -> C:\Users\chiuj\OneDrive\桌面\final project_1\x64\Debug\final project_1.exe
+C:\Users\chiuj\OneDrive\桌面\final-project\final project_1\final project_1\final project_1.c(13,8): warning C4013: 'time' 未定義; 假設 extern 傳回整數
+C:\Users\chiuj\OneDrive\桌面\final-project\final project_1\final project_1\final project_1.c(10,21): warning C4101: 'nu': 未參考的區域變數
+C:\Users\chiuj\OneDrive\桌面\final-project\final project_1\final project_1\final project_1.c(10,7): warning C4101: 'ch': 未參考的區域變數
+C:\Users\chiuj\OneDrive\桌面\final-project\final project_1\final project_1\final project_1.c(8,17): warning C4101: 'wpm': 未參考的區域變數
+C:\Users\chiuj\OneDrive\桌面\final-project\final project_1\final project_1\final project_1.c(8,22): warning C4101: 'n': 未參考的區域變數
+  LINK : 最後的累加連結找不到或未建置 C:\Users\chiuj\OneDrive\桌面\final-project\final project_1\x64\Debug\final project_1.exe，正在執行完整連結
+  final project_1.vcxproj -> C:\Users\chiuj\OneDrive\桌面\final-project\final project_1\x64\Debug\final project_1.exe
