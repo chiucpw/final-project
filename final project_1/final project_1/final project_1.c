@@ -22,5 +22,6 @@ int main()
 
 		}
 		fclose(fptr);
+
 	}
 }
