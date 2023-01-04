@@ -1,1 +1,20 @@
+<<<<<<< HEAD
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Platform.targets(67,5): error MSB8020: 找不到 v143 的建置工具 (平台工具集 = 'v143')。若要使用 v143 建置工具進行建置，請安裝 v143 建置工具。或者，您可以選取 [專案] 功能表，或在方案上按一下滑鼠右鍵，然後選取 [重定方案目標]，升級成最新版的 Visual Studio 工具。
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Platform.targets(67,5): error MSB8020: 找不到 v143 的建置工具 (平台工具集 = 'v143')。若要使用 v143 建置工具進行建置，請安裝 v143 建置工具。或者，您可以選取 [專案] 功能表，或在方案上按一下滑鼠右鍵，然後選取 [重定方案目標]，升級成最新版的 Visual Studio 工具。
+=======
+﻿  final project_1.c
+C:\Users\chiuj\OneDrive\桌面\final-project\final project_1\final project_1\final project_1.c(13,8): warning C4013: 'time' 未定義; 假設 extern 傳回整數
+C:\Users\chiuj\OneDrive\桌面\final-project\final project_1\final project_1\final project_1.c(10,21): warning C4101: 'nu': 未參考的區域變數
+C:\Users\chiuj\OneDrive\桌面\final-project\final project_1\final project_1\final project_1.c(10,7): warning C4101: 'ch': 未參考的區域變數
+C:\Users\chiuj\OneDrive\桌面\final-project\final project_1\final project_1\final project_1.c(8,17): warning C4101: 'wpm': 未參考的區域變數
+C:\Users\chiuj\OneDrive\桌面\final-project\final project_1\final project_1\final project_1.c(8,22): warning C4101: 'n': 未參考的區域變數
+  LINK : 最後的累加連結找不到或未建置 C:\Users\chiuj\OneDrive\桌面\final-project\final project_1\x64\Debug\final project_1.exe，正在執行完整連結
+  final project_1.vcxproj -> C:\Users\chiuj\OneDrive\桌面\final-project\final project_1\x64\Debug\final project_1.exe
+>>>>>>> origin/18
+=======
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Platform.targets(67,5): error MSB8020: 找不到 v143 的建置工具 (平台工具集 = 'v143')。若要使用 v143 建置工具進行建置，請安裝 v143 建置工具。或者，您可以選取 [專案] 功能表，或在方案上按一下滑鼠右鍵，然後選取 [重定方案目標]，升級成最新版的 Visual Studio 工具。
+>>>>>>> origin/develop
+>>>>>>> b0222620402b87ec9072faec0b10d22772fb0dc9

@@ -43,6 +43,9 @@ int main()
 		printf("\n");
 
 		fclose(fptr);
+
+	}
+}
 		//開始計時
 		printf("\n");
 		clock_t t1, t2;
@@ -105,8 +108,6 @@ int main()
 
 	}
 
-
 	system("pause");
 	return 0;
-
 }
