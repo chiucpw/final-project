@@ -11,7 +11,6 @@ float wrongWord; //錯誤字數
 float typeRight;
 float fileLen;
 
-
 int main()
 {
 	static int ss = 0;
